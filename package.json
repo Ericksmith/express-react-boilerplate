@@ -6,8 +6,7 @@
   "author": "Shelby Hurns",
   "license": "MIT",
   "scripts": {
-    "start": "node ./server/bin/www",
-    "dev": "node index-server.js",
+    "dev": "node ./server/bin/www",
     "prod": "webpack --config webpack.config.prod.js",
     "test": "jest"
   },
