@@ -46,7 +46,7 @@
     "webpack-hot-middleware": "^2.19.1"
   },
   "jest": {
-    "setupTestFrameworkScriptFile": "./tests/test_setup",
+    "setupTestFrameworkScriptFile": "./client/tests/test_setup",
     "moduleNameMapper": {
       "\\.(css|scss)$": "identity-obj-proxy"
     },
